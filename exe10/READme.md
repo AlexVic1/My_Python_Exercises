@@ -1,0 +1,1 @@
+calculator that gets from the user the "total value" and the "value" and returns the percentage
