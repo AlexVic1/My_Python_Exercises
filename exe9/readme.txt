@@ -1,0 +1,1 @@
+program which checks the strength of a password.
