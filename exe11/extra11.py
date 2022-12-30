@@ -1,3 +1,6 @@
+###function which gets the average of numbers from text file.
+
+
 def get_average():
     with open("exe11/data.txt", 'r') as file:
         data = file.readlines()
